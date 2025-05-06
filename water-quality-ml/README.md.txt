@@ -21,4 +21,4 @@ This project predicts whether a water sample is safe for drinking based on vario
 - scikit-learn
 
 ## Author
-Gözde Köse
+goekoe
